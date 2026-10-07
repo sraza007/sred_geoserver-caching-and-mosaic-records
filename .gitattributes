@@ -1,0 +1,2 @@
+# Store evidence byte-for-byte so SHA256SUMS.txt stays valid on any OS
+* -text
